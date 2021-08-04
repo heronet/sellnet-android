@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sellnet</string>
+    <!-- Screen Routes -->
+    <string name="products">Products</string>
+    <string name="addProduct">Add Product</string>
+    <string name="userProducts">My Products</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="about">About</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="status_bar">#0e0e0e</color>-->
+<!--    Temporarily disable dark theme-->
+    <color name="status_bar">@color/red900</color>
+</resources>
